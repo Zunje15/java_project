@@ -169,3 +169,4 @@ of how to install the operator to your environment in order to try it there.
 - Do you have a feature/enhancement request?
   - Please open a new thread in the [Kogito stream](https://kie.zulipchat.com/#narrow/stream/232676-kogito) of the KIE Zulip chat to start a discussion there.
 # java_project
+# java_project
